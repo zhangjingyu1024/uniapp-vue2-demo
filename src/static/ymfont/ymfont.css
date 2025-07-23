@@ -1,0 +1,186 @@
+@font-face {
+  font-family: "ymfont"; /* Project id 4526079 */
+  src: url('//at.alicdn.com/t/c/font_4526079_1qd9ndkdeuh.woff2?t=1721100121694') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4526079_1qd9ndkdeuh.woff?t=1721100121694') format('woff'),
+       url('//at.alicdn.com/t/c/font_4526079_1qd9ndkdeuh.ttf?t=1721100121694') format('truetype');
+}
+
+.ymfont {
+  font-family: "ymfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ym-bofang3:before {
+  content: "\e630";
+}
+
+.ym-zanting2:before {
+  content: "\e635";
+}
+
+.ym-zanting1:before {
+  content: "\e629";
+}
+
+.ym-kejianda:before {
+  content: "\e693";
+}
+
+.ym-fuzhi:before {
+  content: "\e720";
+}
+
+.ym-tuikuanzhong:before {
+  content: "\e680";
+}
+
+.ym-weibiaoti2fuzhi04:before {
+  content: "\e621";
+}
+
+.ym-yituikuan:before {
+  content: "\e6f8";
+}
+
+.ym-yiguanbi:before {
+  content: "\e69a";
+}
+
+.ym-yifukuan:before {
+  content: "\e9f0";
+}
+
+.ym-bofang2:before {
+  content: "\e864";
+}
+
+.ym-kuaijin:before {
+  content: "\e865";
+}
+
+.ym-houtiao:before {
+  content: "\e866";
+}
+
+.ym-zanting:before {
+  content: "\e867";
+}
+
+.ym-tongzhi:before {
+  content: "\e649";
+}
+
+.ym-guanbi:before {
+  content: "\e608";
+}
+
+.ym-bishitiku:before {
+  content: "\ea96";
+}
+
+.ym-peizhitiku:before {
+  content: "\e602";
+}
+
+.ym-jifen2:before {
+  content: "\e641";
+}
+
+.ym-kefu:before {
+  content: "\ec2e";
+}
+
+.ym-zhibo:before {
+  content: "\e7d5";
+}
+
+.ym-shezhi:before {
+  content: "\e625";
+}
+
+.ym-xiaoxi:before {
+  content: "\e719";
+}
+
+.ym-del:before {
+  content: "\e609";
+}
+
+.ym-arrow-left-aquarefangjiantou-zuo:before {
+  content: "\e848";
+}
+
+.ym-arrow-right-aquarefangjiantou-you2:before {
+  content: "\e849";
+}
+
+.ym-arrow-leftdanjiantou-zuo:before {
+  content: "\e84a";
+}
+
+.ym-arrow-rightjiantou-you2:before {
+  content: "\e84b";
+}
+
+.ym-sifakaoshi:before {
+  content: "\e6fb";
+}
+
+.ym-shijian:before {
+  content: "\e854";
+}
+
+.ym-yingyong:before {
+  content: "\e61c";
+}
+
+.ym-fenxiang:before {
+  content: "\e77d";
+}
+
+.ym-dingdan:before {
+  content: "\e897";
+}
+
+.ym-weixinzhifu:before {
+  content: "\e65a";
+}
+
+.ym-zhifubaozhifu:before {
+  content: "\e65e";
+}
+
+.ym-jifen:before {
+  content: "\e607";
+}
+
+.ym-jifen1:before {
+  content: "\e604";
+}
+
+.ym-vip-line:before {
+  content: "\e8ad";
+}
+
+.ym-f-vip:before {
+  content: "\e76c";
+}
+
+.ym-vip:before {
+  content: "\e6c8";
+}
+
+.ym-bofang:before {
+  content: "\e8a3";
+}
+
+.ym-bofang1:before {
+  content: "\e624";
+}
+
+.ym-shouting:before {
+  content: "\e603";
+}

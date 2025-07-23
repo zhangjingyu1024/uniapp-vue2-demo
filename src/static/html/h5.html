@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+  <title>全民身心健康学习平台</title>
+  <meta name="Copyright" content="helang">
+  <link rel="shortcut icon" type="image/png" href="">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="全民身心健康学习平台">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="apple-touch-icon-precomposed" href="/static/css/zhuomianicon.ico">
+  <style type="text/css">
+    body {
+      margin: 0;
+      background-color: #E7E7E7;
+	  width: 100vw;
+	  min-height: 100vh;
+    }
+
+    iframe#main-iframe {
+     width: 100vw;
+     height: 100vh;
+      background-color: #fff;
+      box-sizing: content-box;
+      border: none;
+    }
+
+    @media screen and (min-width: 450px) {
+      iframe#main-iframe {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        margin: auto;
+        border: rgba(0, 0, 0, 0.1) solid 1px;
+        border-radius: 4px;
+      }
+    }
+  </style>
+  <script type="text/javascript">
+    window.isPC = true;
+    window.onload = function () {
+      /* 监听电脑浏览器窗口尺寸改变 */
+      window.onresize = function () {
+        /* 窗口宽度 小于或等于960px 时，跳转回H5页面 */
+        if (window.innerWidth <= 960) {
+          window.location.pathname = '/';
+        }
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <iframe id="main-iframe" src="/?type=1"></iframe>
+</body>
+
+</html>

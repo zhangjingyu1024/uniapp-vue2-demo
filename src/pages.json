@@ -1,0 +1,500 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "郑好学",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#F6F8FA",
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/index/quan/family",
+			"style": {
+				"navigationBarTitleText": "郑好学-家庭关系篇",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/index/quan/law",
+			"style": {
+				"navigationBarTitleText": "郑好学-法律科普篇",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/index/quan/zznx",
+			"style": {
+				"navigationBarTitleText": "郑好学-郑在暖心篇",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_category/index",
+			"style": {
+				"navigationBarTitleText": "产品类别",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/userinfo/index",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_series/index",
+			"style": {
+				"navigationBarTitleText": "系列课",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_setmeal/index",
+			"style": {
+				"navigationBarTitleText": "套餐课",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_video/index",
+			"style": {
+				"navigationBarTitleText": "视频课",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_video/extend/index",
+			"style": {
+				"navigationBarTitleText": "扫码视频分享",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_audio/index",
+			"style": {
+				"navigationBarTitleText": "音频课",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/product_live/index",
+			"style": {
+				"navigationBarTitleText": "直播课",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/live/h5Live/index",
+			"style": {
+				"navigationBarTitleText": "直播",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/live/h5Back/index",
+			"style": {
+				"navigationBarTitleText": "回放",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/order/order_list/index",
+			"style": {
+				"navigationBarTitleText": "订单列表",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/order/order_confirm/index",
+			"style": {
+				"navigationBarTitleText": "订单确认",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/order/order_detail/index",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/exam/exam_list/index",
+			"style": {
+				"navigationBarTitleText": "题库列表",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/exam/exam_result/index",
+			"style": {
+				"navigationBarTitleText": "考试结果",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/exam/exam_detail/index",
+			"style": {
+				"navigationBarTitleText": "练习",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/search/search_list/index",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/search/search_detail/index",
+			"style": {
+				"navigationBarTitleText": "搜索结果",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"backgroundColor": "#E7E7E7",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/wechat_login/index",
+			"style": {
+				"navigationBarTitleText": "微信授权",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/binding_phone/index",
+			"style": {
+				"navigationBarTitleText": "绑定手机号",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/integral/index",
+			"style": {
+				"navigationBarTitleText": "积分",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/vip/index",
+			"style": {
+				"navigationBarTitleText": "积分",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/message/index",
+			"style": {
+				"navigationBarTitleText": "消息中心",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/product/teacher_detail/index",
+			"style": {
+				"navigationBarTitleText": "讲师介绍",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/setting/index",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/recent_learning/index",
+			"style": {
+				"navigationBarTitleText": "最近学习",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/live_schedule/index",
+			"style": {
+				"navigationBarTitleText": "直播课表",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/list/index",
+			"style": {
+				"navigationBarTitleText": "健康课程列表",
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		},
+		{
+			"path": "pages/AIQA/index",
+			"style": {
+				"navigationBarTitleText": "AI问答",
+				"disableScroll": true,
+				"app-plus": {
+					// #ifdef APP-PLUS
+					"bounce": "none",
+					"titleNView": {
+						"type": "default"
+					}
+					// #endif
+				}
+			}
+		}
+	],
+	"tabBar": { // 底部菜单
+		"color": "#282828",
+		"selectedColor": "#fc6b06",
+		"borderStyle": "white",
+		"custom": true,
+		"backgroundColor": "#E7E7E7",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/images/h.png",
+				"selectedIconPath": "static/images/h1.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/product/product_category/index",
+				"iconPath": "static/images/ke.png",
+				"selectedIconPath": "static/images/ke1.png",
+				"text": "分类"
+			},
+			{
+				"pagePath": "pages/userinfo/index",
+				"iconPath": "static/images/us.png",
+				"selectedIconPath": "static/images/us1.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "加载中",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#E7E7E7",
+		"titleNView": false,
+		"maxWidth": 1920, //当浏览器可见区域宽度大于 maxWidth 时两侧留白
+		"rpxCalcMaxDeviceWidth": 1920, //rpx 计算所支持的最大设备宽度
+		"rpxCalcBaseDeviceWidth": 750, //rpx 计算使用的基准设备宽度
+		"backgroundColorTop": "#E7E7E7",
+		"backgroundColorBottom": "#E7E7E7"
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	},
+	"embeddedAppIdList": [
+		"wxef277996acc166c3"
+	] //通联支付appid
+}
